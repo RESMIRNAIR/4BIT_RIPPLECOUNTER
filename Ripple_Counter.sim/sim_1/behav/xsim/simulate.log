@@ -1,0 +1,47 @@
+Time resolution is 1 ps
+time=0,rst=1,clk=0,q= 0
+time=5,rst=1,clk=1,q= 0
+time=10,rst=1,clk=0,q= 0
+time=15,rst=0,clk=1,q=15
+time=20,rst=0,clk=0,q=15
+time=25,rst=0,clk=1,q=14
+time=30,rst=0,clk=0,q=14
+time=35,rst=0,clk=1,q=13
+time=40,rst=0,clk=0,q=13
+time=45,rst=0,clk=1,q=12
+time=50,rst=0,clk=0,q=12
+time=55,rst=0,clk=1,q=11
+time=60,rst=0,clk=0,q=11
+time=65,rst=0,clk=1,q=10
+time=70,rst=0,clk=0,q=10
+time=75,rst=0,clk=1,q= 9
+time=80,rst=0,clk=0,q= 9
+time=85,rst=0,clk=1,q= 8
+time=90,rst=0,clk=0,q= 8
+time=95,rst=0,clk=1,q= 7
+time=100,rst=0,clk=0,q= 7
+time=105,rst=0,clk=1,q= 6
+time=110,rst=0,clk=0,q= 6
+time=115,rst=0,clk=1,q= 5
+time=120,rst=0,clk=0,q= 5
+time=125,rst=0,clk=1,q= 4
+time=130,rst=0,clk=0,q= 4
+time=135,rst=0,clk=1,q= 3
+time=140,rst=0,clk=0,q= 3
+time=145,rst=0,clk=1,q= 2
+time=150,rst=0,clk=0,q= 2
+time=155,rst=0,clk=1,q= 1
+time=160,rst=0,clk=0,q= 1
+time=165,rst=0,clk=1,q= 0
+time=170,rst=0,clk=0,q= 0
+time=175,rst=0,clk=1,q=15
+time=180,rst=0,clk=0,q=15
+time=185,rst=0,clk=1,q=14
+time=190,rst=0,clk=0,q=14
+time=195,rst=1,clk=1,q= 0
+time=200,rst=1,clk=0,q= 0
+time=205,rst=1,clk=1,q= 0
+time=210,rst=1,clk=0,q= 0
+time=215,rst=1,clk=1,q= 0
+time=220,rst=1,clk=0,q= 0
+$finish called at time : 225 ns : File "C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/Ripple_Counter/Ripple_Counter.srcs/sim_1/new/Ripple_Test.v" Line 47
